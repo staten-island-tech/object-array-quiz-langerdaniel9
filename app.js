@@ -101,7 +101,6 @@ console.log("Challenge 4", challengeFourAnswer.flat());
 
 const filteredListBonus = [...presidents];
 let filteredListBonusLength = filteredListBonus.length;
-let challengeBonusAnswer = [];
 
 for (
   filteredListBonusIterations = 0;
